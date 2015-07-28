@@ -1,0 +1,5 @@
+#!/usr/bin/python3.1
+import cgi
+import cgitb
+
+print('<form name="input" action="passerv1.py" method="post">')

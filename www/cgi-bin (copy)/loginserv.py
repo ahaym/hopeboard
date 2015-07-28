@@ -1,0 +1,25 @@
+#!/usr/bin/python3.1
+import cgi
+import cgitb
+
+print('<!DOCTYPE html> ')
+print('<html>')
+print('<head>')
+print('<style type="text/css">')
+print()
+print('body')
+print('{')
+print(' background-image: url(/images/StarDome.gif);')
+print(' background-attachment: fixed;')
+print(' background-repeat: no-repeat;')
+print(' background-size: cover;')
+print(' -moz-background-size: cover;')
+print('}')
+print('</style> ')
+print('</head>')
+print('<body>')
+print('<div class="body"> ')
+print('<center><h1><font color="white">Project ACTE 2011<br><br>')
+print('<form name="input" action="/cgi-bin/passerv1.py" method="get">')
+print('Enter at your own risk! <input type="text" name="passcode" /><br>')
+print('</form></center></font></h1>')

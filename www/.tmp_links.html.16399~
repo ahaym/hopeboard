@@ -1,0 +1,13 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+		<title>Links</title>
+		<link type="text/css" rel="stylesheet" href="style2.css">
+	</head>
+	<body>
+		<a href="http://www.icrc.org/eng/index.jsp" target="_blank">International Red Cross</a> - <p>The largest humanitarian organization in the world, providing relief to almost every major disaster in the last 5 decades.</p>
+		<br><br><a href="http://www.interpol.int/" target="_blank">Interpol</a>- An organization promoting unity between international police forces -- Keeps track of Missing persons
+		<br><br><a href="http://www.ic-mp.org/" target="_blank">IC-MP</a>- An international commitee on missing persons in natural and human-based disasters.<br><br><a href="view3.py" target="_blank">View Found
+	</body>
+</html>
